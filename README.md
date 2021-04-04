@@ -2,8 +2,6 @@
 
 DarkLight Networks，a high-efficiency 3D Convolution network for low light illumination action recognition. 
 
- Paper to be presented at CVPR2021
-
 This repository is modeling on the foundation of LateTemporalModeling3DCNN architectures and taking advantage of self-attention to build the classification network. 
 
 ## Dependencies
