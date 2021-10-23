@@ -3,7 +3,7 @@
 
 # Darklight CNN
 
-Paper:[DarkLight Networks for Action Recognition in the Dark | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9522760)
+Paper : [DarkLight Networks for Action Recognition in the Dark | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9522760)
 
 DarkLight Networks，a high-efficiency 3D Convolution network for low light illumination action recognition. 
 
