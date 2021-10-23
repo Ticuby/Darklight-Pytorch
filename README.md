@@ -3,6 +3,8 @@
 
 # Darklight CNN
 
+Paper:[DarkLight Networks for Action Recognition in the Dark | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9522760)
+
 DarkLight Networks，a high-efficiency 3D Convolution network for low light illumination action recognition. 
 
 This repository is modeling on the foundation of LateTemporalModeling3DCNN architectures and taking advantage of self-attention to build the classification network. 
